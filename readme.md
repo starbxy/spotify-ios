@@ -1,6 +1,7 @@
-xcode shortcuts :)
+# xcode shortcuts :)
 
+**⌘ + B** → build
 
-cmnd + b -> build
-cmnd + r -> run
-cmnd + shift + k -> clean build (reset cache kinda)
+**⌘ + R** → run
+
+**⌘ + ⇧ + K** → clean build (reset cache kinda)
