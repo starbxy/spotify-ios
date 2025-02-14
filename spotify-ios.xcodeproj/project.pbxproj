@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		1CEF4C1F2D5F8D6000D64927 /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 1CEF4C1E2D5F8D5C00D64927 /* readme.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		1CEF4BF72D5F7F1000D64927 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		1CEF4BE02D5F7F0F00D64927 /* spotify-ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "spotify-ios.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1CEF4BF62D5F7F1000D64927 /* spotify-iosTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "spotify-iosTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1CEF4C002D5F7F1000D64927 /* spotify-iosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "spotify-iosUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1CEF4C1E2D5F8D5C00D64927 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -92,6 +97,7 @@
 				1CEF4BF92D5F7F1000D64927 /* spotify-iosTests */,
 				1CEF4C032D5F7F1000D64927 /* spotify-iosUITests */,
 				1CEF4BE12D5F7F0F00D64927 /* Products */,
+				1CEF4C1E2D5F8D5C00D64927 /* readme.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -225,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1CEF4C1F2D5F8D6000D64927 /* readme.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
